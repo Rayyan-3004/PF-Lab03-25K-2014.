@@ -6,3 +6,8 @@ I have various experiences with coding, first of all I have learnt python mostly
 1. First of all finishing tryhackme pre-security and cyber security 101 roadmap
 2. Do HackTheBox boxes to test my cyber security skills
 3. OverTheWire cyber security mini games to also test my skills
+
+so far done with
+*tryhackme presecurity 50%
+*tryhackme cyber security 101 50%
+*Introduction to cyber security on netacad 
