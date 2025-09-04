@@ -8,6 +8,6 @@ I have various experiences with coding, first of all I have learnt python mostly
 3. OverTheWire cyber security mini games to also test my skills
 
 so far done with
-*tryhackme presecurity 50%
-*tryhackme cyber security 101 50%
-*Introduction to cyber security on netacad 
+* tryhackme presecurity 50%
+* tryhackme cyber security 101 50%
+* Introduction to cyber security on netacad 
